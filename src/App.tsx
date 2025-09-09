@@ -344,8 +344,8 @@ function App() {
                 <span className="text-2xl">🐄</span>
               </div>
               <div className="flex-1 text-left">
-                <h3 className="font-semibold text-gray-900">Moo</h3>
-                <p className="text-sm text-gray-500">The friendly one</p>
+                <h3 className="font-semibold text-gray-900">Iam "Moo"</h3>
+                <p className="text-sm text-gray-500"></p>
               </div>
               <User className="w-5 h-5 text-gray-400" />
             </motion.button>
@@ -367,8 +367,8 @@ function App() {
                 <span className="text-2xl">👻</span>
               </div>
               <div className="flex-1 text-left">
-                <h3 className="font-semibold text-gray-900">Boo</h3>
-                <p className="text-sm text-gray-500">The mysterious one</p>
+                <h3 className="font-semibold text-gray-900">Iam "Boo"</h3>
+                <p className="text-sm text-gray-500"></p>
               </div>
               <UserCheck className="w-5 h-5 text-gray-400" />
             </motion.button>
