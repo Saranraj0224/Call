@@ -321,7 +321,7 @@ function App() {
             <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-green-600 rounded-2xl mx-auto mb-4 flex items-center justify-center shadow-lg">
               <Phone className="w-8 h-8 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-gray-900 mb-2">Herbalife Connect</h1>
+            <h1 className="text-2xl font-bold text-gray-900 mb-2">Hellooooo!</h1>
             <p className="text-gray-600 text-sm">Who are you?</p>
           </motion.div>
 
